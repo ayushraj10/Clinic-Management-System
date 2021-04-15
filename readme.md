@@ -6,7 +6,7 @@ This is a App to Manage Appointments in a Clinic. <br>
 ## Clone My Repo <br>
 
 ```
-git clone https://github.com/muhammadsemeer/clinic-management-system
+git clone https://github.com/ayushraj10/clinic-management-system
 ```
 
 After Cloning, Go to the directory by typing the command shown below.
